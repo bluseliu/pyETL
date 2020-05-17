@@ -1,6 +1,5 @@
-""" PyETL作業
-1.爬PTT任一個版的圖片並儲存
-"""
+# 爬PTT任一個版的圖片並儲存
+
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
