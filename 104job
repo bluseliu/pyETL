@@ -1,6 +1,4 @@
-""" PyETL作業
-2.爬104人力銀行任意關鍵字，並將公司名稱、職缺、所需技能整理成CSV儲存
-"""
+# 爬104人力銀行任意關鍵字，並將公司名稱、職缺、所需技能整理成CSV儲存
 
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
